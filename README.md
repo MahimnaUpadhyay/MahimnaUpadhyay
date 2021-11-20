@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahimnaUpadhyay
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning C++,Python and Java
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking for Project for C# developer
 - 📫 How to reach me upadhyaymahi28@gmail.com
 
