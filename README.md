@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahimnaUpadhyay
-- 👀 I’m interested in **development** and **designing**.
+- 👀 I’m interested in **development** & **designing**.
 - 🌱 I’m currently learning **Java, Javascript & Flutter**.
 - 💞️ I’m looking for Project related **Web Development**.
 - 📫 How to reach me upadhyaymahi28@gmail.com
