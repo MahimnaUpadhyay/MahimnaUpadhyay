@@ -6,7 +6,7 @@ I specialize in building web and mobile applications using modern frameworks and
 
 | **Category**      | **Technologies**                         |
 |-------------------|-------------------------------------------|
-| 🌐 **Web Development** | `MERN Stack (MongoDB, Express, React, Node.js)`, `Next.js` |
+| 🌐 **Web Development** | `MERN Stack`, `Next.js`, `Spring Boot` |
 | 📱 **Mobile Development** | `Flutter`, `Jetpack Compose` |
 
 ## 💡 What I’m passionate about  
