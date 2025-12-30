@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mahimna Upadhyay  
 
-I specialize in building web and mobile applications using modern frameworks and technologies. Below is a glimpse of my tech stack!
+I'm **Jack of all trades**, meaning I love to try everything out and below are just glimpse of tech stack I know.
 
 ## Tech Stack  
 
@@ -8,8 +8,10 @@ I specialize in building web and mobile applications using modern frameworks and
 |-------------------|-------------------------------------------|
 |  **Web Development** | `MERN Stack`, `Next.js`, `Spring Boot` |
 |  **Mobile Development** | `Flutter`, `Jetpack Compose` |
+| **Data Analysis** | `Python`, `SQL`, `Excel`, `PowerBI` |
+| **Machine Learning** | `Python`, `Scikit-Learn` |
 
 ##  What I’m passionate about  
-- Building responsive and performant applications.  
-- Learning and experimenting with the latest technologies.  
+- Building responsive and performant applications.
+- Learning and experimenting with the latest technologies.
 - Collaborating with like-minded developers.  
